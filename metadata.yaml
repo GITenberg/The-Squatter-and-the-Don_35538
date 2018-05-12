@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '37829'
     url: http://www.gutenberg.org/2009/agents/37829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35538#The-Squatter-and-the-Don
 gutenberg_issued: '2011-03-09'
 gutenberg_type: Text
 identifiers:
